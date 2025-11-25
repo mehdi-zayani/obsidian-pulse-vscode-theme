@@ -1,12 +1,23 @@
 {
   "name": "obsidian-pulse-theme",
   "displayName": "Obsidian Pulse Theme",
-  "description": "Dark and Light professional VS Code theme.",
+  "description": "Obsidian Pulse – A professional dark and light VS Code theme blending subtle dark tones and soft light gradients for comfortable coding sessions.",
   "version": "0.0.1",
+  "publisher": "Mehdi Zayani",
   "engines": {
     "vscode": "^1.106.1"
   },
   "categories": ["Themes"],
+  "keywords": ["theme", "dark", "light", "vscode", "obsidian", "pulse"],
+  "homepage": "https://github.com/mehdi-zayani/obsidian-pulse-vscode-theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehdi-zayani/obsidian-pulse-vscode-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mehdi-zayani/obsidian-pulse-vscode-theme/issues"
+  },
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
