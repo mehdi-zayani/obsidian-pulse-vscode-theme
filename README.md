@@ -1,8 +1,9 @@
 # Obsidian Pulse Theme
 
-![VSCode Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/mehdi-zayani.obsidian-pulse-theme?style=flat-square)
-![Downloads](https://img.shields.io/visual-studio-marketplace/d/mehdi-zayani.obsidian-pulse-theme?style=flat-square)
-![Rating](https://img.shields.io/visual-studio-marketplace/rating/mehdi-zayani.obsidian-pulse-theme?style=flat-square)
+![VSCode Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/MehdiZayani.obsidian-pulse-theme?style=flat-square)
+![Downloads](https://img.shields.io/visual-studio-marketplace/d/MehdiZayani.obsidian-pulse-theme?style=flat-square)
+![Rating](https://img.shields.io/visual-studio-marketplace/rating/MehdiZayani.obsidian-pulse-theme?style=flat-square)
+
 
 Obsidian Pulse is a **professional VS Code theme**, available in **Dark and Light modes**, designed for long coding sessions. It is easy on the eyes with subtle contrasts and elegant color accents.
 

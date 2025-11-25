@@ -3,7 +3,7 @@
   "displayName": "Obsidian Pulse Theme",
   "description": "Obsidian Pulse – A professional dark and light VS Code theme blending subtle dark tones and soft light gradients for comfortable coding sessions.",
   "version": "0.0.1",
-  "publisher": "Mehdi Zayani",
+  "publisher": "MehdiZayani",
   "engines": {
     "vscode": "^1.106.1"
   },
