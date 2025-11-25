@@ -1,7 +1,7 @@
 {
   "name": "Obsidian Pulse Theme",
   "colors": {
-    // ===== EDITOR =====
+
     "editor.background": "#1B1D2A",
     "editor.foreground": "#D8DEE9",
     "editorCursor.foreground": "#FF79C6",
@@ -9,7 +9,6 @@
     "editor.selectionBackground": "#44475A80",
     "editor.inactiveSelectionBackground": "#00000000",
 
-    // ===== SIDEBAR / ACTIVITY BAR (gradient) =====
     "activityBar.background": "#24263A",
     "activityBar.foreground": "#F8F8F2",
     "activityBarBadge.background": "#FF79C6",
@@ -21,7 +20,7 @@
     "sideBarTitle.foreground": "#F8F8F2",
     "sideBarSectionHeader.background": "#202233",
 
-    // ===== EXPLORER LIST + HOVER/SELECTION =====
+
     "list.activeSelectionBackground": "#2A2D3E",
     "list.activeSelectionForeground": "#F8F8F2",
     "list.inactiveSelectionBackground": "#26293A",
@@ -30,7 +29,7 @@
     "list.focusBackground": "#30344A",
     "list.focusForeground": "#FFFFFF",
 
-    // ===== STATUS BAR =====
+
     "statusBar.background": "#181A26",
     "statusBar.foreground": "#BD93F9",
     "statusBar.noFolderBackground": "#181A26",
@@ -38,7 +37,6 @@
     "statusBar.debuggingForeground": "#BD93F9",
     
 
-    // ===== TITLE BAR / TABS (gradient top) =====
     "titleBar.activeBackground": "#2A2542",
     "titleBar.inactiveBackground": "#312A4B",
     "titleBar.activeForeground": "#F8F8F2",
@@ -58,19 +56,17 @@
     "editorGroup.emptyBackground": "#1B1D2A",
     "tab.unfocusedActiveBorderTop": "#5A7180",
 
-
-    // ===== SCROLLBARS =====
     "scrollbarSlider.background": "#4A4D5E44",
     "scrollbarSlider.hoverBackground": "#4A4D5E66",
     "scrollbarSlider.activeBackground": "#4A4D5E99",
 
-    // ===== PANELS =====
+    
     "panel.background": "#1B1D2A",
     "panel.border": "#222536",
     "panelTitle.activeForeground": "#F8F8F2",
     "panelTitle.inactiveForeground": "#A6ADC8",
 
-    // ===== MENUS =====
+  
     "menu.background": "#1E2030",
     "menu.foreground": "#F8F8F2",
     "menu.selectionBackground": "#2A2D3E",
@@ -79,7 +75,7 @@
     "menubar.selectionBackground": "#2A2D3E",
     "menubar.selectionForeground": "#FFFFFF",
 
-    // ===== INPUTS / DROPDOWNS =====
+    
     "input.background": "#1E2030",
     "input.foreground": "#F8F8F2",
     "input.border": "#323446",
@@ -89,14 +85,14 @@
     "dropdown.foreground": "#F8F8F2",
     "dropdown.border": "#323446",
 
-    // ===== NOTIFICATIONS =====
+
     "notificationCenterHeader.background": "#1E2030",
     "notifications.background": "#1E2030",
     "notifications.foreground": "#FFFFFF",
     "notificationToast.border": "#323446",
 
 
-    // ===== SETTINGS PANEL =====
+ 
     "editorWidget.background": "#1B1D2A",
     "editorWidget.foreground": "#D8DEE9",
     "editorWidget.border": "#24263A",
@@ -114,22 +110,22 @@
     "settings.textInputForeground": "#F8F8F2",
     "settings.textInputBorder": "#323446",
 
-    // ===== GIT DECORATIONS =====
+
     "gitDecoration.modifiedResourceForeground": "#BD93F9",
     "gitDecoration.addedResourceForeground": "#BD93F9",
     "gitDecoration.deletedResourceForeground": "#FF5555",
     "gitDecoration.untrackedResourceForeground": "#BD93F9",
 
-    // ===== BUTTONS =====
+
     "button.background": "#6B5FA5",       
     "button.foreground": "#F8F8F2",       
     "button.hoverBackground": "#9B8FEA",
     
-    // ==== Text / Links =====
+
     "textLink.foreground": "#C574DD",        
     "textLink.activeForeground": "#A78BF0",
     "pickerGroup.foreground": "#C574DD",  
-    // ===== TERMINAL =====
+
     "terminal.background": "#1B1D2A",         
     "terminal.foreground": "#BD93F9",  
     "terminalCursor.background": "#BD93F9",

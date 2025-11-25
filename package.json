@@ -1,20 +1,23 @@
 {
-  "name": "obsidian-pulse",
-  "displayName": "Obsidian Pulse",
-  "description": "Obsidian Pulse – A professional, dark-only VS Code theme blending Dracula, Flat, and Material design. Easy on the eyes for long coding sessions.",
+  "name": "obsidian-pulse-theme",
+  "displayName": "Obsidian Pulse Theme",
+  "description": "Dark and Light professional VS Code theme.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.106.1"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
-        "label": "Obsidian Pulse Theme",
+        "label": "Obsidian Pulse Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Obsidian Pulse Theme-color-theme.json"
+        "path": "./themes/obsidian-pulse-dark-color-theme.json"
+      },
+      {
+        "label": "Obsidian Pulse Light",
+        "uiTheme": "vs",
+        "path": "./themes/obsidian-pulse-light-color-theme.json"
       }
     ]
   }
